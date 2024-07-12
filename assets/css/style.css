@@ -1,0 +1,27 @@
+*{
+font-family: 'Courier New', Courier, monospace;
+color: black;
+
+}
+
+
+header {
+background-color: green;
+text-align: right;
+}
+
+.section-1 {
+text-align: center;
+background-color: bisque;
+
+}
+
+.section-2{
+background-color: burlywood;
+
+}
+
+footer{
+background-color: green;
+text-align: center;
+}
